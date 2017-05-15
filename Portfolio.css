@@ -1,6 +1,27 @@
 body{
   background-color: #FB88D1;
 }
+
 h1 {
   text-align: center;
+  font-size: 2em;
+}
+#head {
+    background-color: #D4AF37;
+}
+h3 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 1.5;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: purple;
+}
+
+p{
+font-size: 1.2em;
+text-align: center;
 }
