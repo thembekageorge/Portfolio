@@ -24,17 +24,13 @@ h3 {
 a {
   display: block;
   text-decoration: none;
-  color: purple;
+  color: #800020;
+}
+a:hover {
+    color: black;
 }
 
 p{
 font-size: 1.2em;
 text-align: center;
 }
-/*#container {
-  transition: background-color 0.5s ease;
-  background-color: red;
-}
-:hover {
-  background-color: green;
-}*/
